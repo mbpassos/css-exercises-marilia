@@ -1,0 +1,19 @@
+.odd-numbers{
+    background-color: #FFB6C1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#blue-font {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.odd-numbers.bigger-font{
+    font-size: 24px;
+}
+
+#green-font{
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
